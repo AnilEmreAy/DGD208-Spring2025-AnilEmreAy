@@ -1,0 +1,1 @@
+When I created the project at the beginning of May, I gave a random name to the project name. I did all the work on that project and then I finished it. Although I changed the name according to the official standards, that random name is still in the debug section. I am making this explanation in case of confusion.
