@@ -1,0 +1,8 @@
+C:\Users\a_emr\source\repos\Bubu\Bubu\obj\Debug\Bubu.csproj.AssemblyReference.cache
+C:\Users\a_emr\source\repos\Bubu\Bubu\obj\Debug\Bubu.csproj.CoreCompileInputs.cache
+C:\Users\a_emr\source\repos\Bubu\Bubu\bin\Debug\Bubu.exe.config
+C:\Users\a_emr\source\repos\Bubu\Bubu\bin\Debug\Bubu.exe
+C:\Users\a_emr\source\repos\Bubu\Bubu\bin\Debug\Bubu.pdb
+C:\Users\a_emr\source\repos\Bubu\Bubu\obj\Debug\Bubu.exe
+C:\Users\a_emr\source\repos\Bubu\Bubu\obj\Debug\Bubu.pdb
+C:\Users\a_emr\source\repos\Bubu\Bubu\obj\Debug\Bubu.exe.config
